@@ -1,0 +1,11 @@
+.signUp-form{
+    margin: 40px;
+    text-align: left;
+}
+
+.input-text-style{
+    background: none;
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid white;
+}
